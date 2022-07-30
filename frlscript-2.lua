@@ -19,7 +19,7 @@
  ##                               \)                                            ##                   
                                                                                 ##                   
                                                                                  ##                  
-                             translated by https://github.com/Aydeniztr
+                              by https://github.com/Aydeniztr
 --]]
 
 function Main()
